@@ -1,11 +1,11 @@
 '@context': https://schema.org/
 creativeWorkStatus: Published
 type: LearningResource
-name: Student Support Code Template
-description: "This is a template repo for providing student support code (e.g.\_source code and tests) for Java based homework assignments."
-license: https://opensource.org/licenses/MIT
-id: >-
-  https://github.com/Programmiermethoden-CampusMinden/student-support-code-template
+name: Student Support Code for 'Syntax Highlighting' Task
+description: |
+  This represents the student support code for the Syntax Highlighting task.
+license: https://opensource.org/license/mit
+id: https://github.com/Programmiermethoden-CampusMinden/prog2_ybel_highlighting
 creator:
   - givenName: Carsten
     familyName: Gips
@@ -31,4 +31,4 @@ learningResourceType:
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_A
   - https://w3id.org/kim/educationalLevel/level_6
-datePublished: '2024-02-28'
+datePublished: '2024-06-25'
